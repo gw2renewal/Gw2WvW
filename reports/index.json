@@ -1,0 +1,31 @@
+{
+  "colorPalette": "refined-cyan",
+  "glassSurfaces": false,
+  "entries": [
+    {
+      "id": "20260402-211808-y7q3",
+      "title": "Nyoôm, The Bloöp, The Blöop",
+      "commanders": [
+        "Nyoôm",
+        "The Bloöp",
+        "The Blöop"
+      ],
+      "dateStart": "2026-04-02T13:18:08.000Z",
+      "dateEnd": "2026-04-02T14:17:55.000Z",
+      "dateLabel": "4/2/2026, 9:18:08 PM - 4/2/2026, 10:17:55 PM",
+      "url": "https://gw2renewal.github.io/Gw2WvW/?report=20260402-211808-y7q3",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 18,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 30
+      }
+    }
+  ]
+}
