@@ -3,6 +3,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260403-080314-t8mi",
+      "title": "Graven Light",
+      "commanders": [
+        "Graven Light"
+      ],
+      "dateStart": "2026-04-03T00:03:14.000Z",
+      "dateEnd": "2026-04-03T01:58:57.000Z",
+      "dateLabel": "4/3/2026, 8:03:14 AM - 4/3/2026, 9:58:57 AM",
+      "url": "https://gw2renewal.github.io/Gw2WvW/?report=20260403-080314-t8mi",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 25,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 44,
+        "avgEnemySize": 18
+      }
+    },
+    {
       "id": "20260402-211808-y7q3",
       "title": "Nyoôm, The Bloöp, The Blöop",
       "commanders": [
