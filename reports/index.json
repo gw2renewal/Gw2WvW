@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260412-084234-xo5c",
+      "title": "Alice Charmingnails",
+      "commanders": [
+        "Alice Charmingnails"
+      ],
+      "dateStart": "2026-04-12T00:42:34.000Z",
+      "dateEnd": "2026-04-12T01:55:58.000Z",
+      "dateLabel": "4/12/2026, 8:42:34 AM - 4/12/2026, 9:55:58 AM",
+      "url": "https://gw2renewal.github.io/Gw2WvW/?report=20260412-084234-xo5c",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 27,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260403-080314-t8mi",
       "title": "Graven Light",
       "commanders": [
