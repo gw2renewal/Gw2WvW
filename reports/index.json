@@ -3,6 +3,30 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260414-203337-ougi",
+      "title": "Fat Bloop, The Bloöp",
+      "commanders": [
+        "Fat Bloop",
+        "The Bloöp"
+      ],
+      "dateStart": "2026-04-14T12:33:37.000Z",
+      "dateEnd": "2026-04-14T14:27:22.000Z",
+      "dateLabel": "4/14/2026, 8:33:37 PM - 4/14/2026, 10:27:22 PM",
+      "url": "https://gw2renewal.github.io/Gw2WvW/?report=20260414-203337-ougi",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 36,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 21
+      }
+    },
+    {
       "id": "20260412-183529-2sti",
       "title": "Hime Utsumiya",
       "commanders": [
