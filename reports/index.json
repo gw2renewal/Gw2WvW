@@ -3,6 +3,31 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260416-210055-3lls",
+      "title": "Nyoôm, The Blöop, The Fat Bloop",
+      "commanders": [
+        "Nyoôm",
+        "The Blöop",
+        "The Fat Bloop"
+      ],
+      "dateStart": "2026-04-16T13:00:55.000Z",
+      "dateEnd": "2026-04-16T14:25:31.000Z",
+      "dateLabel": "4/16/2026, 9:00:55 PM - 4/16/2026, 10:25:31 PM",
+      "url": "https://gw2renewal.github.io/Gw2WvW/?report=20260416-210055-3lls",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 30,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20260414-203337-ougi",
       "title": "Fat Bloop, The Bloöp",
       "commanders": [
