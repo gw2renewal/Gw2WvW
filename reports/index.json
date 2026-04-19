@@ -1,7 +1,30 @@
 {
-  "colorPalette": "refined-cyan",
+  "colorPalette": "electric-blue",
   "glassSurfaces": false,
   "entries": [
+    {
+      "id": "20260419-082432-mw6t",
+      "title": "Alice Charmingnails",
+      "commanders": [
+        "Alice Charmingnails"
+      ],
+      "dateStart": "2026-04-19T00:24:32.000Z",
+      "dateEnd": "2026-04-19T01:04:16.000Z",
+      "dateLabel": "4/19/2026, 8:24:32 AM - 4/19/2026, 9:04:16 AM",
+      "url": "https://gw2renewal.github.io/Gw2WvW/?report=20260419-082432-mw6t",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 33,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 38
+      }
+    },
     {
       "id": "20260416-210055-3lls",
       "title": "Nyoôm, The Blöop, The Fat Bloop",
