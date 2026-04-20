@@ -3,6 +3,30 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260420-211854-x4dv",
+      "title": "Milk R, The Bloöp",
+      "commanders": [
+        "Milk R",
+        "The Bloöp"
+      ],
+      "dateStart": "2026-04-20T13:18:54.000Z",
+      "dateEnd": "2026-04-20T13:55:03.000Z",
+      "dateLabel": "4/20/2026, 9:18:54 PM - 4/20/2026, 9:55:03 PM",
+      "url": "https://gw2renewal.github.io/Gw2WvW/?report=20260420-211854-x4dv",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 35,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260419-082432-mw6t",
       "title": "Alice Charmingnails",
       "commanders": [
