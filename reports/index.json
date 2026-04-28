@@ -3,6 +3,31 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260428-210118-u5yj",
+      "title": "Milk R, Nyoôm, The Bloöp",
+      "commanders": [
+        "Milk R",
+        "Nyoôm",
+        "The Bloöp"
+      ],
+      "dateStart": "2026-04-28T13:01:18.000Z",
+      "dateEnd": "2026-04-28T14:03:34.000Z",
+      "dateLabel": "4/28/2026, 9:01:18 PM - 4/28/2026, 10:03:34 PM",
+      "url": "https://gw2renewal.github.io/Gw2WvW/?report=20260428-210118-u5yj",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 26,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260426-210856-59db",
       "title": "The Bloöp",
       "commanders": [
