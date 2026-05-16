@@ -1,7 +1,36 @@
 {
   "colorPalette": "electric-blue",
   "glassSurfaces": false,
+  "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260516-101655-uolg",
+      "title": "Its Bloop",
+      "commanders": [
+        "Its Bloop"
+      ],
+      "dateStart": "2026-05-16T02:16:55.000Z",
+      "dateEnd": "2026-05-16T03:10:30.000Z",
+      "dateLabel": "5/16/2026, 10:16:55 AM - 5/16/2026, 11:10:30 AM",
+      "url": "https://gw2renewal.github.io/Gw2WvW/?report=20260516-101655-uolg",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 25,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 41
+      }
+    },
     {
       "id": "20260428-210118-u5yj",
       "title": "Milk R, Nyoôm, The Bloöp",
