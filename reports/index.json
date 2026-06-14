@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260614-220216-qwbi",
+      "title": "Alpha Thug",
+      "commanders": [
+        "Alpha Thug"
+      ],
+      "dateStart": "2026-06-14T14:02:16.000Z",
+      "dateEnd": "2026-06-14T14:56:04.000Z",
+      "dateLabel": "6/14/2026, 10:02:16 PM - 6/14/2026, 10:56:04 PM",
+      "url": "https://gw2renewal.github.io/Gw2WvW/?report=20260614-220216-qwbi",
+      "summary": {
+        "borderlandsPct": 0.05,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260614-212038-ul5m",
       "title": "Alpha Thug",
       "commanders": [
