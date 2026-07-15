@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260715-214643-u4cu",
+      "title": "Inquisitor Short",
+      "commanders": [
+        "Inquisitor Short"
+      ],
+      "dateStart": "2026-07-15T13:46:43.000Z",
+      "dateEnd": "2026-07-15T14:45:48.000Z",
+      "dateLabel": "7/15/2026, 9:46:43 PM - 7/15/2026, 10:45:48 PM",
+      "url": "https://gw2renewal.github.io/Gw2WvW/?report=20260715-214643-u4cu",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 22,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260614-220216-qwbi",
       "title": "Alpha Thug",
       "commanders": [
