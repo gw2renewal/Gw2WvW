@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260729-215840-ojsq",
+      "title": "Inquisitor Short",
+      "commanders": [
+        "Inquisitor Short"
+      ],
+      "dateStart": "2026-07-29T13:58:40.000Z",
+      "dateEnd": "2026-07-29T14:55:32.000Z",
+      "dateLabel": "7/29/2026, 9:58:40 PM - 7/29/2026, 10:55:32 PM",
+      "url": "https://gw2renewal.github.io/Gw2WvW/?report=20260729-215840-ojsq",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20260718-102948-0rx4",
       "title": "Fat Bloop",
       "commanders": [
