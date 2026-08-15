@@ -4,6 +4,44 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260815-203743-dq96",
+      "title": "Poteriaz Cross",
+      "commanders": [
+        "Poteriaz Cross"
+      ],
+      "guild": {
+        "id": "567D4883-1244-43CC-99CE-6BFA27F172CA",
+        "name": "Bellicose Banana Club",
+        "tag": "Bana"
+      },
+      "dateStart": "2026-08-15T12:37:43.000Z",
+      "dateEnd": "2026-08-15T13:13:41.000Z",
+      "dateLabel": "8/15/2026, 8:37:43 PM - 8/15/2026, 9:13:41 PM",
+      "url": "https://gw2renewal.github.io/Gw2WvW/?report=20260815-203743-dq96",
+      "summary": {
+        "borderlandsPct": 0.2926829268292683,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 29,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 7,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 5,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 46
+      }
+    },
+    {
       "id": "20260729-215840-ojsq",
       "title": "Inquisitor Short",
       "commanders": [
